@@ -14,3 +14,7 @@ Git Clone: https://github.com/Srikar2020/Employee-Tracker
 # Usage
 
 npm start 
+
+# Youtube Video 
+
+https://youtu.be/Bc1D5iEWw7w
